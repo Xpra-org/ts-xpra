@@ -1,0 +1,17 @@
+:root {
+  color-scheme: dark;
+  --background: #151c20;
+  --panel: #1d262b;
+  --chrome: #263239;
+  --input: #182126;
+  --text: #edf2f0;
+  --muted: #92a6ab;
+  --line: #344148;
+  --accent: #9fe1bc;
+  --accent-hover: #b4f0ce;
+  --accent-wash: #9fe1bc14;
+  --hover: #334148;
+  --overlay: #101a2099;
+  --dot: #52676b38;
+  --error: #ffb0a7;
+}
